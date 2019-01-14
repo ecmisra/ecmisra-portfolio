@@ -104,6 +104,11 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  -webkit-text-stroke: 1px lightgrey;
+}
+
+.masthead h3 {
+  -webkit-text-stroke: 1px grey;
 }
 
 @media (min-width: 992px) {
